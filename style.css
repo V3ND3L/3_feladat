@@ -1,0 +1,28 @@
+body{
+    font-family: Arial;
+    font-size: 10pt;
+    color: #555555;
+}
+#tartalom{
+    width: 700px;
+    margin: auto;
+}
+#sztori{
+    width: 300px;
+    float: left;
+}
+#elkeszites{
+    width: 380px;
+    float: right;
+}
+#receptetillusztracio{
+    float: left;
+    margin-right: 40px;
+}
+#fejlec{
+    background-image: url(./fejlec.jpg);
+    height: 116px;    
+}
+#left{
+    float: left;
+}
